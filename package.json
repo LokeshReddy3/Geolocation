@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~48.0.18",
+    "@mauron85/react-native-background-geolocation": "^0.6.3",
+    "@react-native-community/geolocation": "^3.0.6",
+    "expo": "^48.0.0",
+    "expo-location": "~15.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-boundary": "^1.1.1",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-maps": "^1.7.1",
+    "uglify-es": "^3.3.9",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
